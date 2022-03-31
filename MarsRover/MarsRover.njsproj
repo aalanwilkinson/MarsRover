@@ -28,7 +28,6 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="rover.test.js" />
     <Content Include="rover.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
