@@ -3,7 +3,7 @@
 ## Introduction
 This is a solution, implemented as a basic console application in JavaScript using node.js, to the problem detailed in the document "Mars Rover Challenge". These notes describe briefly some of the features of the solution.
 
-The grid as specified starts with 1, but internally it is convenient to model the grid starting at 0. A grid of 100 by 100 is specified and this is coded into a variable 'gridSize'. This could be changed relatively easily if a different grid size were required in future.
+The grid as specified starts with 1, but internally it is convenient to model the grid starting at 0. A grid of 100 by 100 is specified and this is coded into a constant 'gridSize'. This could be changed relatively easily if a different grid size were required in future.
 
 The function 'moveRover' adjusts the position and direction of the rover using a switch statement based on each command. The direction variable is a number between 0 and 3, corresponding to the compass directions starting at North and moving clockwise. This simplifies changing direction by allowing it to be done by modulo arithmetic.
 
