@@ -2,7 +2,7 @@
   "name": "mars-rover",
   "version": "0.0.0",
   "description": "MarsRover",
-  "main": "app.js",
+  "main": "rover.js",
   "author": {
     "name": ""
   },
