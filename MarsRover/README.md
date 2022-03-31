@@ -1,7 +1,7 @@
 # MarsRover
 
 ## Introduction
-This is a solution, implemented as a basic console application in JavaScript using node.js, to the technical test detailed in the document "Mars Rover Challenge". These notes describe briefly some of the features of the solution.
+This is a solution, implemented as a basic console application in JavaScript using node.js, to the problem detailed in the document "Mars Rover Challenge". These notes describe briefly some of the features of the solution.
 
 The grid as specified starts with 1, but internally it is convenient to model the grid starting at 0. A grid of 100 by 100 is specified and this is coded into a variable 'gridSize'. This could be changed relatively easily if a different grid size were required in future.
 
