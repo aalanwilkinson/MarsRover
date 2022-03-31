@@ -17,6 +17,6 @@ If no input is given, the input string will be deemed invalid but the current po
 Some basic input validation is performed, to make sure that the input is in the expected format. If it is not, an error message is displayed and the user is asked for input again. This includes permitting a space in case the input is supplied in ISO 80000 format.
 
 ## Output
-The script outputs the message "The new position is <position> and direction is <direction>"
+The script outputs the message "The new position is (position) and direction is (direction)"
   
 The user is then asked for their next input, with the rover starting from its last calculated position and direction.
